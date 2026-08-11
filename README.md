@@ -1,5 +1,5 @@
 # DragonFooFlights
-DragonFooFlight learns cooperative adaptive flight dynamics with DRL and RBV tidepool and Fractal Coastline Obstacle Optimization
+DragonFooFlight learns cooperative adaptive flight dynamics with DRL using Radial Basis Vector tidepool and Fractal Coastline Obstacle, Resource Mapping Optimization
 
 Dragonfly DRL
 
