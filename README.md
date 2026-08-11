@@ -14,6 +14,7 @@ The initial environment represents environmental state through radial-basis feat
 Later experiments will compare multiple deep reinforcement-learning algorithms and evaluate their resulting behavioral repertoires using distributional divergence, hierarchical clustering, and control-performance metrics.
 
 Initial research sequence
+
 Establish a conventional DQN baseline.
 Replace epsilon-greedy exploration with NoisyNet exploration.
 Add state-visitation counts.
