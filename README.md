@@ -23,6 +23,7 @@ Introduce coastline/fractal environmental descriptors.
 Compare learned flight-like behavioral repertoires.
 Compare dragonfly-inspired swarm behavior, monarch-inspired migration, and a no-flight control condition.
 Evaluate multiple DRL algorithms under equivalent environments and metrics.
+
 Behavioral representation
 
 The project treats an agent's behavior as a repertoire rather than a single scalar reward. Trajectories are represented by distributions over speed, heading, altitude, turning behavior, acceleration, neighborhood distance, obstacle distance, and energy expenditure.
